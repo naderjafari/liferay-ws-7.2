@@ -1,0 +1,3 @@
+Bundle-Name: foo-test
+Bundle-SymbolicName: ir.sain.example.test
+Bundle-Version: 1.0.0
